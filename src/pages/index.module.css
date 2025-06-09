@@ -21,3 +21,20 @@
   align-items: center;
   justify-content: center;
 }
+
+.row_custom {
+  display: flex;
+  justify-content: center;
+  /* or 'start' or 'space-between' */
+  gap: 1rem;
+  /* horizontal spacing between buttons */
+  flex-wrap: nowrap;
+  /* optional: keep in one row */
+}
+
+.buttons_custom {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 5px;
+}
