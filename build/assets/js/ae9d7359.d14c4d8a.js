@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkpdam_documentation=self.webpackChunkpdam_documentation||[]).push([[8918],{4343:t=>{t.exports=JSON.parse('{"metadata":{"permalink":"/pdam-documentation/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
